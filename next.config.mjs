@@ -4,7 +4,7 @@ const nextConfig = {
 		styledComponents: true,
 	},
 	env: {
-		API_ENDPOINT: "http://localhost:5010/",
+		API_ENDPOINT: "https://api.cloudvista.dev/",
 	},
 };
 
